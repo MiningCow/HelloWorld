@@ -1,4 +1,4 @@
-Red
-Green
-blue
-yellow
+NoRed
+NoGreen
+Noblue
+NOyellow
