@@ -1,4 +1,4 @@
-NoRed
-NoGreen
-Noblue
-NOyellow
+Royal red
+Royal green
+Royal blue
+Royal yellow
